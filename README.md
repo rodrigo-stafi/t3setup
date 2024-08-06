@@ -32,4 +32,12 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 ## TODO
 
--[ ] Make it deploy -[ ] Scaffold basic ui with mock data -[ ] Actually set up a database (vercel postgres) -[ ] Attach database to UI -[ ] Add authentication (w/ clerck) -[ ] Add image upload -[ ] Error management (w/ Sentry) -[ ] Routing/image page (parallel route) -[ ] Delete button (w/ Server Actions) -[ ] Analytics (posthog) -[ ] Ratelimiting (upstash)
+-[x] Make it deploy -[x] Scaffold basic ui with mock data -[x] Actually set up a database (vercel postgres)
+-[] Attach database to UI
+-[] Add authentication (w/ clerck)
+-[] Add image upload
+-[] Error management (w/ Sentry)
+-[] Routing/image page (parallel route)
+-[] Delete button (w/ Server Actions)
+-[] Analytics (posthog)
+-[] Ratelimiting (upstash)
