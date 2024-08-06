@@ -18,12 +18,10 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en" className={`${GeistSans.variable}`}>
         <body className="flex flex-col gap-4">
-          <header>
-            <TopNav />
-          </header>
+          <TopNav />
           {children}
         </body>
       </html>
     </ClerkProvider>
-  );
+  )
 }
