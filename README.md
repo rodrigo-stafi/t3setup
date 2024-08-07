@@ -32,8 +32,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 ## TODO
 
--[x] Make it deploy -[x] Scaffold basic ui with mock data -[x] Tidy up build process -[x] Actually set up a database (vercel postgres) -[x] Attach database to UI -[x] Add authentication (w/ clerck)
--[] Add image upload
+-[x] Make it deploy -[x] Scaffold basic ui with mock data -[x] Tidy up build process -[x] Actually set up a database (vercel postgres) -[x] Attach database to UI -[x] Add authentication (w/ clerck) -[x] Add image upload
 -[] "taint" (server-only)
 -[] Use Next/Image component
 -[] Error management (w/ Sentry)
